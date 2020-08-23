@@ -30,7 +30,7 @@
 
 - [image-fetch](https://github.com/spectralapps/image-fetch)
 
-- [https://github.com/spectralapps/pern-text-search](pern-text-search)
+- [pern-text-search](https://github.com/spectralapps/pern-text-search)
 
 <!--
 **spectralapps/spectralapps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
