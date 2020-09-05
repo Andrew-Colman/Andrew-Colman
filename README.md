@@ -26,7 +26,7 @@
 
 ## ✨ Cool Projects:
 
-- [ultimate-react-template-parcel](https://github.com/spectralapps/ultimate-react-template-parcel)
+- [ultimate-react](https://github.com/spectralapps/ultimate-react)
 
 - [image-fetch](https://github.com/spectralapps/image-fetch)
 
