@@ -26,11 +26,11 @@
 
 ## ✨ Cool Projects:
 
-- [ultimate-react](https://github.com/spectralapps/ultimate-react)
+- [ultimate-react](https://github.com/spectralapps/ultimate-react) ([ _npm_ ](https://www.npmjs.com/package/ultimate-react))
 
-- [image-fetch](https://github.com/spectralapps/image-fetch)
-
-- [pern-text-search](https://github.com/spectralapps/pern-text-search)
+- [image-fetch](https://github.com/spectralapps/image-fetch) ([ _live app_ ](https://image-fetch.vercel.app/)
+)
+<!--- [pern-text-search](https://github.com/spectralapps/pern-text-search) -->
 
 <!--
 **spectralapps/spectralapps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
