@@ -26,10 +26,12 @@
 
 ## ✨ Cool Projects:
 
+- [image-fetch](https://github.com/spectralapps/image-fetch) ([ _live app_ ](https://image-fetch.vercel.app/))
+
 - [ultimate-react](https://github.com/spectralapps/ultimate-react) ([ _npm_ ](https://www.npmjs.com/package/ultimate-react))
 
-- [image-fetch](https://github.com/spectralapps/image-fetch) ([ _live app_ ](https://image-fetch.vercel.app/)
-)
+- [sync-fork](https://github.com/spectralapps/sync-fork) ([ _npm_ ](https://www.npmjs.com/package/sync-fork))
+
 <!--- [pern-text-search](https://github.com/spectralapps/pern-text-search) -->
 
 <!--
