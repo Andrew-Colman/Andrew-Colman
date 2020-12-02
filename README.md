@@ -26,11 +26,11 @@
 
 ## ✨ Cool Projects:
 
-- [image-fetch](https://github.com/spectralapps/image-fetch) ([ _live app_ ](https://image-fetch.vercel.app/))
+- [image-fetch](https://github.com/spectralapps/image-fetch) ([ _live app_ ](https://image-fetch.vercel.app/)) ```#react web app```
 
-- [ultimate-react](https://github.com/spectralapps/ultimate-react) ([ _npm_ ](https://www.npmjs.com/package/ultimate-react))
+- [ultimate-react](https://github.com/spectralapps/ultimate-react) ([ _npm_ ](https://www.npmjs.com/package/ultimate-react)) ```#react toolchain```
 
-- [sync-fork](https://github.com/spectralapps/sync-fork) ([ _npm_ ](https://www.npmjs.com/package/sync-fork))
+- [sync-fork](https://github.com/spectralapps/sync-fork) ([ _npm_ ](https://www.npmjs.com/package/sync-fork)) ```#cli tool```
 
 <!--- [pern-text-search](https://github.com/spectralapps/pern-text-search) -->
 
