@@ -26,16 +26,14 @@
 
 ## ✨ Cool Projects:
 
-- [image-fetch](https://github.com/spectralapps/image-fetch) ([ _live app_ ](https://image-fetch.vercel.app/)) ```#react web app```
+- [image-fetch](https://github.com/Andrew-Colman/image-fetch) ([ _live app_ ](https://image-fetch.vercel.app/)) ```#react web app```
 
-- [ultimate-react](https://github.com/spectralapps/ultimate-react) ([ _npm_ ](https://www.npmjs.com/package/ultimate-react)) ```#react toolchain```
+- [ultimate-react](https://github.com/Andrew-Colman/ultimate-react) ([ _npm_ ](https://www.npmjs.com/package/ultimate-react)) ```#react toolchain```
 
-- [sync-fork](https://github.com/spectralapps/sync-fork) ([ _npm_ ](https://www.npmjs.com/package/sync-fork)) ```#cli tool```
+- [sync-fork](https://github.com/Andrew-Colman/sync-fork) ([ _npm_ ](https://www.npmjs.com/package/sync-fork)) ```#cli tool```
 
-<!--- [pern-text-search](https://github.com/spectralapps/pern-text-search) -->
+<!--- [pern-text-search](https://github.com/Andrew-Colman/pern-text-search) -->
 
-<!--
-**spectralapps/spectralapps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
