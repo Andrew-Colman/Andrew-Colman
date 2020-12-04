@@ -34,7 +34,7 @@
 
 <!--- [pern-text-search](https://github.com/Andrew-Colman/pern-text-search) -->
 
-
+<!---
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
