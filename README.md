@@ -28,7 +28,7 @@
 
 - [image-fetch](https://github.com/Andrew-Colman/image-fetch) ([ _live app_ ](https://image-fetch.vercel.app/)) ```#react web app```
 
-- [ultimate-react](https://github.com/Andrew-Colman/ultimate-react) ([ _npm_ ](https://www.npmjs.com/package/ultimate-react)) ```#react toolchain```
+- [ultimate-react](https://github.com/Andrew-Colman/ultimate-react) ```#react toolchain```
 
 - [sync-fork](https://github.com/Andrew-Colman/sync-fork) ([ _npm_ ](https://www.npmjs.com/package/sync-fork)) ```#cli tool```
 
