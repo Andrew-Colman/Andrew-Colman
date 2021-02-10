@@ -38,7 +38,7 @@
 
 - [sync-fork](https://github.com/Andrew-Colman/sync-fork) ([ _npm_ ](https://www.npmjs.com/package/sync-fork)) ```#cli tool```
 
-<!--- [reaxi](https://github.com/Andrew-Colman/reaxi) --> ```#react cli tool```
+<!--- [reaxi](https://github.com/Andrew-Colman/reaxi)  ```#react cli tool``` -->
 
 <!---
 Here are some ideas to get you started:
