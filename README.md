@@ -32,13 +32,14 @@
 
 ## ✨ Cool Projects:
 
+- [reaxi](https://github.com/Andrew-Colman/reaxi) ([ _npm_ ](https://www.npmjs.com/package/reaxi)) ```#react cli tool```
+
 - [image-fetch](https://github.com/Andrew-Colman/image-fetch) ([ _live app_ ](https://image-fetch.vercel.app/)) ```#react web app```
 
 - [ultimate-react](https://github.com/Andrew-Colman/ultimate-react) ```#react toolchain```
 
-- [sync-fork](https://github.com/Andrew-Colman/sync-fork) ([ _npm_ ](https://www.npmjs.com/package/sync-fork)) ```#cli tool```
+- [sync-fork](https://github.com/Andrew-Colman/sync-fork) ([ _npm_ ](https://www.npmjs.com/package/sync-fork)) ```#git cli tool```
 
-<!--- [reaxi](https://github.com/Andrew-Colman/reaxi)  ```#react cli tool``` -->
 
 <!---
 Here are some ideas to get you started:
