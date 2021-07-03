@@ -1,36 +1,8 @@
 ### Hi there 👋
 
-## ⚡ Skills:
+<hr>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square)
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=TypeScript&logoColor=white)
-![Vercel](https://img.shields.io/badge/-vercel-efefef?style=flat-square&logo=vercel&logoColor=000)
-![Next](https://img.shields.io/badge/-Next-efefef?style=flat-square&logo=next.js&logoColor=000)
-![Redux](https://img.shields.io/badge/-redux-764abc?style=flat-square&logo=redux&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-38B2AC?style=flat-square&logo=tailwind-css&logoColor=fff)
-
-![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=fff)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Apollo](https://img.shields.io/badge/-Apollo-311C87?style=flat-square&logo=apollo%20graphql)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![REST](https://img.shields.io/badge/-REST-black?style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-
-## ✨ Cool Projects:
+## ✨ Cool Projects
 
 - [reaxi](https://github.com/Andrew-Colman/reaxi) ([ _npm_ ](https://www.npmjs.com/package/reaxi)) ```#react cli tool```
 
@@ -39,6 +11,47 @@
 - [ultimate-react](https://github.com/Andrew-Colman/ultimate-react) ```#react toolchain```
 
 - [sync-fork](https://github.com/Andrew-Colman/sync-fork) ([ _npm_ ](https://www.npmjs.com/package/sync-fork)) ```#git cli tool```
+
+<hr>
+
+## ⚡ Skills
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-fff?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Node.js-fff?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-fff?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-fff?style=flat-square&logo=TypeScript&logoColor=#3178C6)
+![Redux](https://img.shields.io/badge/-redux-fff?style=flat-square&logo=redux&logoColor=764ABC)
+![Next](https://img.shields.io/badge/-Next.js-fff?style=flat-square&logo=next.js&logoColor=000)
+
+<hr>
+
+![HTML](https://img.shields.io/badge/-HTML-fff?style=flat-square&logo=html5&logoColor=E34F26&textColor=red)
+![CSS](https://img.shields.io/badge/-CSS-fff?style=flat-square&logo=css3&logoColor=1572B6)
+![Sass](https://img.shields.io/badge/-Sass-fff?style=flat-square&logo=sass&logoColor=CC6699)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?style=flat-square&logo=bootstrap&logoColor=563D7C)
+![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-fff?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
+![Styled](https://img.shields.io/badge/-Styled-fff?style=flat-square&logo=styled-components)
+
+<hr>
+
+![Express](https://img.shields.io/badge/-Express-fff?style=flat-square&logo=express&logoColor=24292e)
+![REST](https://img.shields.io/badge/-REST-fff?style=flat-square&logo=purescript&logoColor=14161A)
+![GraphQL](https://img.shields.io/badge/-GraphQL-fff?style=flat-square&logo=graphql&logoColor=E10098)
+![MongoDB](https://img.shields.io/badge/-MongoDB-fff?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?style=flat-square&logo=postgresql) 
+![Heroku](https://img.shields.io/badge/-Heroku-fff?style=flat-square&logo=heroku&logoColor=430098)
+![Apollo](https://img.shields.io/badge/-Apollo-fff?style=flat-square&logo=apollo%20graphql&logoColor=311C87)
+![Vercel](https://img.shields.io/badge/-vercel-fff?style=flat-square&logo=vercel&logoColor=000)
+![Firebase](https://img.shields.io/badge/-firebase-fff?style=flat-square&logo=firebase&logoColor=FFCA28)
+<hr>
+
+![Yarn](https://img.shields.io/badge/-Yarn-fff?style=flat-square&logo=yarn&)
+![Docker](https://img.shields.io/badge/-Docker-fff?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-fff?style=flat-square&logo=git)
+![npm](https://img.shields.io/badge/-Npm-fff?style=flat-square&logo=npm)
+
+
+
 
 
 <!---
