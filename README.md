@@ -4,13 +4,17 @@
 
 ## ✨ Cool Projects
 
-- [reaxi](https://github.com/Andrew-Colman/reaxi) ([ _npm_ ](https://www.npmjs.com/package/reaxi)) ```#react cli tool```
+![Packages](https://img.shields.io/badge/-Packages-fff?style=for-the-badge) 
 
-- [image-fetch](https://github.com/Andrew-Colman/image-fetch) ([ _live app_ ](https://image-fetch.vercel.app/)) ```#react web app```
+- [reaxi](https://github.com/Andrew-Colman/reaxi) ([ _npm_ ](https://www.npmjs.com/package/reaxi)) ```# react cli tool```
 
-- [ultimate-react](https://github.com/Andrew-Colman/ultimate-react) ```#react toolchain```
+- [ultimate-react](https://github.com/Andrew-Colman/ultimate-react) ```# react toolchain```
 
-- [sync-fork](https://github.com/Andrew-Colman/sync-fork) ([ _npm_ ](https://www.npmjs.com/package/sync-fork)) ```#git cli tool```
+- [sync-fork](https://github.com/Andrew-Colman/sync-fork) ([ _npm_ ](https://www.npmjs.com/package/sync-fork)) ```# git cli tool```
+
+![Web](https://img.shields.io/badge/-Web-fff?style=for-the-badge)
+
+- [image-fetch](https://github.com/Andrew-Colman/image-fetch) ([ _live app_ ](https://image-fetch.vercel.app/)) ```# react web app```
 
 <hr>
 
