@@ -16,9 +16,9 @@
 
 ![Web](https://img.shields.io/badge/-Web-fff?style=for-the-badge)
 
-<!-- [ntf page](https://github.com/Andrew-Colman/...) ([ _live app_ ](https://....vercel.app/)) ```# react web app / nft platform``` -->
+<!-- [ntf page](https://github.com/Andrew-Colman/...) ([ _live app_ ](https://....vercel.app/)) ```# Next.js web app / nft platform``` -->
 
-<!-- [upvote-next](https://github.com/Andrew-Colman/...) ([ _live app_ ](https://....vercel.app/)) ```# react web app / upvote platform``` -->
+<!-- [upvote-next](https://github.com/Andrew-Colman/...) ([ _live app_ ](https://....vercel.app/)) ```# Next.js web app / upvote platform``` -->
 
 - [image-fetch](https://github.com/Andrew-Colman/image-fetch) ([ _live app_ ](https://image-fetch.vercel.app/)) ```# react web app```
 
@@ -59,7 +59,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-fff?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-fff?style=flat-square&logo=git)
 ![npm](https://img.shields.io/badge/-Npm-fff?style=flat-square&logo=npm)
-
+![prisma](https://img.shields.io/badge/-Prisma-fff?style=flat-square&logo=prisma&logoColor=2D3748)
 
 
 
