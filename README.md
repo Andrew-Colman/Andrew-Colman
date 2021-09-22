@@ -8,9 +8,11 @@
 
 - [reaxi](https://github.com/Andrew-Colman/reaxi) ([ _npm_ ](https://www.npmjs.com/package/reaxi)) ```# react cli tool```
 
-- [ultimate-react](https://github.com/Andrew-Colman/ultimate-react) ```# react toolchain```
+- [ultimate-next](https://github.com/Andrew-Colman/ultimate-next) ```# next.js toolchain``` 
 
-<!-- - [ultimate-next](https://github.com/Andrew-Colman/ultimate-next) ```# next.js toolchain``` -->
+- [react-blazing](https://github.com/Andrew-Colman/ultimate-react) ```# react toolchain```
+
+
 
 - [sync-fork](https://github.com/Andrew-Colman/sync-fork) ([ _npm_ ](https://www.npmjs.com/package/sync-fork)) ```# git cli tool```
 
@@ -21,6 +23,8 @@
 <!-- [upvote-next](https://github.com/Andrew-Colman/...) ([ _live app_ ](https://....vercel.app/)) ```# Next.js web app / upvote platform``` -->
 
 - [image-fetch](https://github.com/Andrew-Colman/image-fetch) ([ _live app_ ](https://image-fetch.vercel.app/)) ```# react web app```
+
+> current projects under development: upvote platform, nft store, business websites, tailwindcss ui libraries (and more in queue)
 
 <hr>
 
