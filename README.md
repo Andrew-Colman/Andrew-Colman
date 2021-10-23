@@ -6,15 +6,14 @@
 
 ![Packages](https://img.shields.io/badge/-Packages-fff?style=for-the-badge) 
 
-- [reaxi](https://github.com/Andrew-Colman/reaxi) ([ _npm_ ](https://www.npmjs.com/package/reaxi)) ```# react cli tool```
+- ## [reaxi](https://github.com/Andrew-Colman/reaxi) ([ _npm_ ](https://www.npmjs.com/package/reaxi)) ``` react cli / generation tool```
 
-- [ultimate-next](https://github.com/Andrew-Colman/ultimate-next) ```# next.js toolchain``` 
+- ## [react-blazing](https://github.com/Andrew-Colman/react-blazing) ``` the react toolchain 🔥``` 
 
-- [react-blazing](https://github.com/Andrew-Colman/ultimate-react) ```# react toolchain```
+<!-- - [ultimate-next](https://github.com/Andrew-Colman/ultimate-next) ``` next.js toolchain``` -->
 
 
-
-- [sync-fork](https://github.com/Andrew-Colman/sync-fork) ([ _npm_ ](https://www.npmjs.com/package/sync-fork)) ```# git cli tool```
+- [sync-fork](https://github.com/Andrew-Colman/sync-fork) ([ _npm_ ](https://www.npmjs.com/package/sync-fork)) ``` git cli tool```
 
 ![Web](https://img.shields.io/badge/-Web-fff?style=for-the-badge)
 
@@ -22,9 +21,9 @@
 
 <!-- [upvote-next](https://github.com/Andrew-Colman/...) ([ _live app_ ](https://....vercel.app/)) ```# Next.js web app / upvote platform``` -->
 
-- [image-fetch](https://github.com/Andrew-Colman/image-fetch) ([ _live app_ ](https://image-fetch.vercel.app/)) ```# react web app```
+- ### [image-fetch](https://github.com/Andrew-Colman/image-fetch) ([ _live app_ ](https://image-fetch.vercel.app/)) ``` react web app```
 
-> current projects under development: upvote platform, nft store, business websites, tailwindcss ui libraries (and more in queue)
+> current projects under development: upvote platform, nft store, business websites, ui libraries (and more in queue)
 
 <hr>
 
