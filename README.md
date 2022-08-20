@@ -9,10 +9,7 @@
 - ## [reaxi](https://github.com/reaxi) 
 > ```development ecosystem, featuring handy automation and code generation packages```
 
-- ### [react-blazing](https://github.com/Andrew-Colman/react-blazing)
->  ``` the react toolchain 🔥``` 
-
-- [view many more...](https://github.com/stars/Andrew-Colman/lists/my-packages) 
+- ### [view all packages list](https://github.com/stars/Andrew-Colman/lists/my-packages) 
 
 ![Web](https://img.shields.io/badge/-Web-fff?style=for-the-badge)
 
