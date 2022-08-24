@@ -6,10 +6,20 @@
 
 ![Packages](https://img.shields.io/badge/-Packages-fff?style=for-the-badge) 
 
-- ## [reaxi](https://github.com/reaxi) 
+- ## [reaxi org](https://github.com/reaxi) 
 > ```development ecosystem, featuring handy automation and code generation packages```
 
-- ### [view all packages list](https://github.com/stars/Andrew-Colman/lists/my-packages) 
+> reaxi: dynamic code generator cli
+
+> plugin-system: node's universal plugin system (you can enhance any 3rd party library to support plugins)
+
+> promises: the most clean way to use async/await functions
+
+> gh-gen: generate apps from any github repository
+
+- ### [all my packages list](https://github.com/stars/Andrew-Colman/lists/my-packages) 
+
+> like node packages and toolchains
 
 ![Web](https://img.shields.io/badge/-Web-fff?style=for-the-badge)
 
