@@ -17,6 +17,8 @@
 
 > gh-gen: generate apps from any github repository
 
+> wksp: workspaces / monorepo management tool
+
 - ### [all my packages list](https://github.com/stars/Andrew-Colman/lists/my-packages) 
 
 > like node packages and toolchains
