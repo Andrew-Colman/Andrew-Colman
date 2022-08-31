@@ -25,9 +25,11 @@
 
 ![Web](https://img.shields.io/badge/-Web-fff?style=for-the-badge)
 
-<!-- [ntf page](https://github.com/Andrew-Colman/...) ([ _live app_ ](https://....vercel.app/)) ```# Next.js web app / nft platform``` -->
+- #### [next.ts](https://github.com/Andrew-Colman/next.ts) ``` Next.js Typescript toolchain/starter``` 
 
-<!-- [upvote-next](https://github.com/Andrew-Colman/...) ([ _live app_ ](https://....vercel.app/)) ```# Next.js web app / upvote platform``` -->
+- #### [ntf store](https://github.com/Andrew-Colman/nft-store) <!-- ([ _live app_ ](https://....vercel.app/)) --> ``` Next.js web app / nft platform```  
+
+<!-- [upvote-next](https://github.com/Andrew-Colman/...) ([ _live app_ ](https://....vercel.app/)) ``` Next.js web app / upvote platform``` -->
 
 - #### [image-fetch](https://github.com/Andrew-Colman/image-fetch) ([ _live app_ ](https://image-fetch.vercel.app/)) ``` react web app```
 
