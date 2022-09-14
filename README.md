@@ -9,15 +9,17 @@
 - ## [reaxi org](https://github.com/reaxi) 
 > ```development ecosystem, featuring handy automation and code generation packages```
 
-> reaxi: dynamic code generator cli
+> [reaxi](https://github.com/Andrew-Colman/reaxi): dynamic code generator cli 
 
-> plugin-system: node's universal plugin system (you can enhance any 3rd party library to support plugins)
+> [plugin-system](https://github.com/reaxi/plugin-system): node's universal plugin system (you can enhance any 3rd party library to support plugins)
 
-> promises: the most clean way to use async/await functions
+> [promises](https://github.com/reaxi/promises): the most clean way to use async/await functions
 
-> gh-gen: generate apps from any github repository
+> [gh-gen](https://github.com/reaxi/gh-gen): generate apps from any github repository
 
-> wksp: workspaces / monorepo management tool
+> [wksp](https://github.com/reaxi/wksp): workspaces / monorepo management tool
+
+> [reaxi.org](https://reaxi.org/) / [docs](https://reaxi.org/docs/reaxi/intro) reaxi's and underlying packages documentation website
 
 - ### [all my packages list](https://github.com/stars/Andrew-Colman/lists/my-packages) 
 
