@@ -64,7 +64,7 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-fff?style=flat-square&logo=graphql&logoColor=E10098)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-fff?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?style=flat-square&logo=postgresql) 
-![Heroku](https://img.shields.io/badge/-Heroku-fff?style=flat-square&logo=heroku&logoColor=430098)
+![Azure](https://img.shields.io/badge/-Azure-fff?style=flat-square&logo=azure&logoColor=430098)
 ![Apollo](https://img.shields.io/badge/-Apollo-fff?style=flat-square&logo=apollo%20graphql&logoColor=311C87)
 ![Vercel](https://img.shields.io/badge/-vercel-fff?style=flat-square&logo=vercel&logoColor=000)
 ![Firebase](https://img.shields.io/badge/-firebase-fff?style=flat-square&logo=firebase&logoColor=FFCA28)
