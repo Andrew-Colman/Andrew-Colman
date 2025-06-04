@@ -23,8 +23,6 @@
 
 - #### [image-fetch](https://github.com/Andrew-Colman/image-fetch) ([ _live app_ ](https://image-fetch.vercel.app/)) ``` react web app```
 
-> current projects under development: upvote platform, nft store, business websites, ui libraries (and more in queue)
-
 <hr>
 
 ## ⚡ Skills
@@ -63,19 +61,3 @@
 ![Git](https://img.shields.io/badge/-Git-fff?style=flat-square&logo=git)
 ![npm](https://img.shields.io/badge/-Npm-fff?style=flat-square&logo=npm)
 ![prisma](https://img.shields.io/badge/-Prisma-fff?style=flat-square&logo=prisma&logoColor=2D3748)
-
-
-
-
-<!---
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
