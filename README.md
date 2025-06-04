@@ -6,20 +6,9 @@
 
 ![Packages](https://img.shields.io/badge/-Packages-fff?style=for-the-badge) 
 
-- ## [reaxi org](https://github.com/reaxi) 
-> ```development ecosystem, featuring handy automation and code generation packages```
-
-> [reaxi](https://github.com/Andrew-Colman/reaxi): dynamic code generator cli 
-
-> [plugin-system](https://github.com/reaxi/plugin-system): node's universal plugin system (you can enhance any 3rd party library to support plugins)
-
 > [promises](https://github.com/reaxi/promises): the most clean way to use async/await functions
 
 > [gh-gen](https://github.com/reaxi/gh-gen): generate apps from any github repository
-
-> [wksp](https://github.com/reaxi/wksp): workspaces / monorepo management tool
-
-> [reaxi.org](https://reaxi.org/) / [docs](https://reaxi.org/docs/reaxi/intro) reaxi's and underlying packages documentation website
 
 - ### [all my packages list](https://github.com/stars/Andrew-Colman/lists/my-packages) 
 
@@ -27,7 +16,6 @@
 
 ![Web](https://img.shields.io/badge/-Web-fff?style=for-the-badge)
 
-- #### [next.ts](https://github.com/Andrew-Colman/next.ts) ``` Next.js Typescript toolchain/starter``` 
 
 - #### [ntf store](https://github.com/Andrew-Colman/nft-store) <!-- ([ _live app_ ](https://....vercel.app/)) --> ``` Next.js web app / nft platform```  
 
