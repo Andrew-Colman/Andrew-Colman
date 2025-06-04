@@ -31,8 +31,9 @@
 ![Nodejs](https://img.shields.io/badge/-Node.js-fff?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-fff?style=flat-square&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-fff?style=flat-square&logo=TypeScript&logoColor=#3178C6)
-![Redux](https://img.shields.io/badge/-redux-fff?style=flat-square&logo=redux&logoColor=764ABC)
 ![Next](https://img.shields.io/badge/-Next.js-fff?style=flat-square&logo=next.js&logoColor=000)
+![C#](https://img.shields.io/badge/-C%23-fff?style=flat-square&logo=csharp&logoColor=239120)
+![Python](https://img.shields.io/badge/-Python-fff?style=flat-square&logo=python&logoColor=3776AB)
 
 <hr>
 
